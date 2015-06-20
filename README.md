@@ -2,11 +2,9 @@
 
 [![npm version](https://img.shields.io/npm/v/sircus-components-fullembed.svg?style=flat)](https://www.npmjs.com/package/sircus-components-fullembed)
 
-> A FullEmbed Component Module of Sircus.
-
 ## Installation
 
-> use npm:
+> npm:
 
 ```bash
 $ npm install sircus-components-fullembed
@@ -14,17 +12,17 @@ $ npm install sircus-components-fullembed
 
 ## Usage
 
-> use cssnext:
+> cssnext:
 
 input.css
 ```css
 @import "sircus-components-fullembed";
 ```
 
-> use sass:
+> sass:
 
 input.scss
-```css
+```scss
 @import "node_modules/sircus-components-fullembed/converted";
 ```
 
