@@ -1,13 +1,14 @@
 {
   "name": "sircus-components-fullembed",
-  "description": "Sircus FullEmbed Components Module.",
+  "description": "css FullEmbed components module for Sircus",
   "version": "0.0.1",
   "homepage": "http://sircus.github.io/components-fullembed",
   "keywords": [
-    "scalability",
-    "maintainability",
-    "designability",
-    "css"
+    "scalabe",
+    "design",
+    "css",
+    "cssnext",
+    "rwd"
   ],
   "author": {
     "name": "Yasuyuki Enomoto",
