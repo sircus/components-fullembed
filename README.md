@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/sircus-components-fullembed.svg?style=flat)](https://www.npmjs.com/package/sircus-components-fullembed)
 
-## Installation
+## Install
 
 > npm:
 

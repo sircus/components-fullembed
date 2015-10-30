@@ -1,17 +1,17 @@
 {
   "name": "sircus-components-fullembed",
-  "description": "css FullEmbed components module for Sircus",
+  "description": "Module For Fluid Width Video",
   "version": "0.0.1",
   "homepage": "http://sircus.github.io/components-fullembed",
   "keywords": [
-    "scalabe",
-    "design",
     "css",
-    "cssnext",
+    "design",
+    "modular",
+    "scalable",
     "rwd"
   ],
   "author": {
-    "name": "Yasuyuki Enomoto",
+    "name": "blivesta",
     "url": "http://blivesta.com"
   },
   "license": "MIT",
